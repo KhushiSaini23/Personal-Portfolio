@@ -1,6 +1,6 @@
 Personal Portfolio Website
 Welcome to my Personal Portfolio Website, built using HTML, CSS, JavaScript, and React.js. This project showcases my journey as a developer and includes a detailed overview of my skills, projects, education, certifications, and professional experience.
-✨ Live Demo: 
+Live Demo: 
 
 Project Overview
 The purpose of this project is to create a clean, user-friendly platform where I can professionally present my background and capabilities.
